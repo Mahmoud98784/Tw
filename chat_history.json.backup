@@ -1,0 +1,164 @@
+[
+  [
+    "User",
+    "build for me a to-do application that has nice interfaces and can run locally without any kind of problems"
+  ],
+  [
+    "Twin",
+    {
+      "message": "Workflow was started"
+    }
+  ],
+  [
+    "Twin",
+    "🤔 Thinking..."
+  ],
+  [
+    "Twin",
+    "🔍 Analyzing..."
+  ],
+  [
+    "Twin",
+    "📐 Designing..."
+  ],
+  [
+    "Twin",
+    "⚙️ Developing..."
+  ],
+  [
+    "Twin",
+    "🧪 Testing..."
+  ],
+  [
+    "Twin",
+    "🚀 Deploying..."
+  ],
+  [
+    "User",
+    "build for me a to-do application that has nice interfaces and can run locally without any kind of problems"
+  ],
+  [
+    "Twin",
+    {
+      "type": "phase_status",
+      "phase": "planning",
+      "name": "Planning",
+      "icon": "🤔",
+      "status": "processing"
+    }
+  ],
+  [
+    "Twin",
+    {
+      "type": "phase_status",
+      "phase": "analysis",
+      "name": "Analysis",
+      "icon": "🔍",
+      "status": "processing"
+    }
+  ],
+  [
+    "Twin",
+    {
+      "type": "phase_status",
+      "phase": "design",
+      "name": "Design",
+      "icon": "📐",
+      "status": "processing"
+    }
+  ],
+  [
+    "Twin",
+    {
+      "type": "phase_status",
+      "phase": "development",
+      "name": "Development",
+      "icon": "⚙️",
+      "status": "processing"
+    }
+  ],
+  [
+    "Twin",
+    {
+      "type": "phase_status",
+      "phase": "testing",
+      "name": "Testing",
+      "icon": "🧪",
+      "status": "processing"
+    }
+  ],
+  [
+    "Twin",
+    {
+      "type": "phase_status",
+      "phase": "deployment",
+      "name": "Deployment",
+      "icon": "🚀",
+      "status": "processing"
+    }
+  ],
+  [
+    "User",
+    "build for me a to-do application that has nice interfaces and can run locally without any kind of problems"
+  ],
+  [
+    "Twin",
+    {
+      "type": "phase_status",
+      "phase": "planning",
+      "name": "Planning",
+      "icon": "🤔",
+      "status": "processing"
+    }
+  ],
+  [
+    "Twin",
+    {
+      "type": "phase_status",
+      "phase": "analysis",
+      "name": "Analysis",
+      "icon": "🔍",
+      "status": "processing"
+    }
+  ],
+  [
+    "Twin",
+    {
+      "type": "phase_status",
+      "phase": "design",
+      "name": "Design",
+      "icon": "📐",
+      "status": "processing"
+    }
+  ],
+  [
+    "Twin",
+    {
+      "type": "phase_status",
+      "phase": "development",
+      "name": "Development",
+      "icon": "⚙️",
+      "status": "processing"
+    }
+  ],
+  [
+    "Twin",
+    {
+      "type": "phase_status",
+      "phase": "testing",
+      "name": "Testing",
+      "icon": "🧪",
+      "status": "processing"
+    }
+  ],
+  [
+    "Twin",
+    {
+      "type": "phase_status",
+      "phase": "deployment",
+      "name": "Deployment",
+      "icon": "🚀",
+      "status": "processing"
+    }
+  ]
+]
